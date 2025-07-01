@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Marshmallow
+marshmallow-sqlalchemy
+Flask-JWT-Extended
+python-dotenv
+Werkzeug
+pytest
+Flasgger
